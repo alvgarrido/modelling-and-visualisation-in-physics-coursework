@@ -1,0 +1,9 @@
+# Scientific dependencies imported by the coursework notebooks.
+numpy
+scipy
+pandas
+matplotlib
+
+# Notebook interface and Python kernel.
+jupyterlab
+ipykernel
