@@ -1,6 +1,6 @@
-# Modelling and Visualization in Physics
+# Modelling and Visualisation in Physics
 
-Coursework for the University of Edinburgh's Modelling and Visualization in Physics course. The repository contains 20 Python Jupyter notebooks covering statistical physics simulations, cellular automata, and numerical solutions of partial differential equations.
+Coursework for the University of Edinburgh's [Modelling and Visualisation in Physics](https://www.drps.ed.ac.uk/18-19/dpt/cxphys10035.htm) course. The repository contains 20 Python Jupyter notebooks covering statistical physics simulations, cellular automata, and numerical solutions of partial differential equations.
 
 ## Contents
 
